@@ -2,7 +2,7 @@
 
 FocusFlow is a focus timer that works like a small game. Each session you finish gives you XP and grows a plant in a pot with a face; if you give up halfway, the plant gets sad.
 
-**Live demo:** https://focusflow-TODO.vercel.app <!-- TODO: Vercel linkini buraya yaz -->
+**Live demo:** https://focusflow-omega-teal.vercel.app
 
 ![Focus screen with a running timer, and the progress screen with a weekly chart and activity map](docs/screenshot.png)
 
